@@ -1,4 +1,3 @@
-# MOCKUP_COMENDADOR
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -209,7 +208,7 @@ header {
         </div>
 
         <div class="hero-img">
-            <img src="kkkk.jpg.jfif" alt="Drift">
+            <img src="KKK.jpg.jfif" alt="Drift">
         </div>
     </div>
 </section>
@@ -242,7 +241,7 @@ header {
         </p>
     </div>
     <div class="about-img">
-        <img src="kkkk.jpg.jfif" alt="About Drift">
+        <img src="KKK.jpg.jfif" alt="About Drift">
     </div>
 </section>
 
